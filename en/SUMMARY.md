@@ -1,6 +1,6 @@
 * [Preface](README.md)
 * [Introduction](01-introduction/README.md)
-  * [A bit of history](01-introduction/01-a-bit-of-history/README.md)
+  * [A Bit of history](01-introduction/01-a-bit-of-history/README.md)
   * [Java Virtual Machine](01-introduction/02-the-java-virtual-machine/README.md)
   * [Organization of the Specification](01-introduction/03-organization-of-the-specification/README.md)
   * [Notation](01-introduction/04-notation/README.md)
